@@ -518,7 +518,7 @@ def display_intro():
     print("=" * 80)
     print("\nWelcome to the Formula 1 Statistics Dashboard!")
     print("This tool provides comprehensive F1 statistics and analysis capabilities.")
-    print("\nCreated with the fastf1 Python library")
+    print("\nCreated by akhi07rx with the fastf1 Python library")
     print("=" * 80 + "\n")
 
 
