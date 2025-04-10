@@ -1,5 +1,6 @@
 """
 F1 Statistics Dashboard - Interactive command-line tool for F1 race data analysis
+Created by akhi07rx with the fastf1 Python library
 """
 
 import argparse
