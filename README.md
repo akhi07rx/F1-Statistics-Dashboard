@@ -6,7 +6,7 @@ A comprehensive command-line tool for analyzing Formula 1 race data using the Fa
 
 F1 Statistics Dashboard is a Python application that provides detailed statistics, visualizations, and analysis of Formula 1 race data. From viewing race schedules to comparing driver performances across seasons, this tool offers F1 fans and data enthusiasts a powerful way to explore the world of Formula 1 racing.
 
-![F1 Dashboard Banner](https://via.placeholder.com/800x200?text=F1+Statistics+Dashboard)
+![F1 Dashboard Banner](https://support.formula1.com/file-asset/F1_App_Red_Logo_White_Background?v=1)
 
 ## Features
 
@@ -43,7 +43,7 @@ pip install fastf1 pandas matplotlib tabulate
 ### Installing F1 Statistics Dashboard
 ```bash
 # Clone the repository
-git clone https://github.com/akhi07rx/f1-statistics-dashboard.git
+git clone https://github.com/akhi07rx/F1-Statistics-Dashboard.git
 cd f1-statistics-dashboard
 
 # Install required dependencies
